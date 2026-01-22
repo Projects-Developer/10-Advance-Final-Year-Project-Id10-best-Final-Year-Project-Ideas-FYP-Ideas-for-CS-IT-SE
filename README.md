@@ -9,7 +9,6 @@ Here are 10 advanced final year project ideas for Computer Science (CS), Informa
 
 3. Research Paper
 
-
 4. Code
 
 5. Explanation video
@@ -17,7 +16,6 @@ Here are 10 advanced final year project ideas for Computer Science (CS), Informa
 6. Documents
 
 7. Report
-
 
 ### Need Code, Documents & Explanation video ? 
 
